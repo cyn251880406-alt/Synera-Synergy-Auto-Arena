@@ -1,0 +1,26 @@
+# Build output
+build2/
+build/
+*.exe
+*.o
+*.obj
+
+# Qt autogen
+*_autogen/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.pro.user
+
+# Claude
+.claude/
+CLAUDE.md
+
+# Generated files
+README.pdf
+
+# OS
+.DS_Store
+Thumbs.db
